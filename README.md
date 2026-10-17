@@ -32,6 +32,7 @@ Con 3 y 8, utilizando módulo 11, los restos son 3 y 8. Como son diferentes, no 
 
 ![Ejemplo de números no congruentes](captura_no_congruentes.png)
 
-## 🧠 Qué he practicado
 
-En este ejercicio he trabajado la aritmética modular, las funciones, los condicionales y el control de errores al introducir datos en Python.
+## 🧠 Qué he aprendido
+
+He aprendido a comprobar si dos números son congruentes comparando sus restos con `%`. También he practicado las funciones y cómo comprobar que los datos introducidos sean válidos.
