@@ -1,6 +1,6 @@
 # 🔢 AP 22 · Comprobador de congruencia
 
-**Ironhack | MF0489_3 - Sistemas seguros de acceso y transmisión de datos**
+**Ironhack | MF0489 - Sistemas seguros de acceso y transmisión de datos**
 
 ## 📝 El ejercicio
 
